@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adwaith Shan</h1>
 <h3 align="center">A Dedicated  Developer and Linux Aficionado From India.</h3>
 
-- 🔭 I’m currently working on **Many Projects**
+- 🔭 I’m currently working on **Many Private Projects**
 
 - 💬 Ask me about **Discord Bots,Javascript And Python**
 
