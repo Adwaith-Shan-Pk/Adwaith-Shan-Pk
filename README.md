@@ -8,6 +8,7 @@
 - ⚡ Fun fact **I Use Arch BTW**
 
 ![Adwaith's Stats](https://gitmystat.vercel.app/user?theme=tokyonight&username=Adwaith-Shan-Pk)
+
 [![Top Langs](https://gitmystat.vercel.app/top?theme=tokyonight&username=Adwaith-Shan-Pk&layout=default)](https://github.com)
 
 <h3 align="left">Connect with me:</h3>
