@@ -7,8 +7,8 @@
 
 - ⚡ Fun fact **I Use Arch BTW**
 
-![Adwaith's Stats](https://github-readme-stats.vercel.app/api?username=Adwaith-Shan-Pk&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adwaith-Shan-Pk&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Adwaith's Stats](https://gitmystat.vercel.app/user?theme=tokyonight&username=Adwaith-Shan-Pk)
+[![Top Langs](https://gitmystat.vercel.app/top?theme=tokyonight&username=Adwaith-Shan-Pk&layout=default)](https://github.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
